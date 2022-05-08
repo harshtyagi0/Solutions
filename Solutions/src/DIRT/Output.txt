@@ -1,0 +1,121 @@
+##############################################################################
+		Methods Details
+##############################################################################
+0 Methods
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- End Of Method -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+##############################################################################
+		Attributes Details
+##############################################################################
+Fields Name:- a
+Declared Class :- class DIRT.TestCase
+DataType:- int
+##############################################################################
+Fields Name:- b
+Declared Class :- class DIRT.TestCase
+DataType:- int
+##############################################################################
+Fields Name:- c
+Declared Class :- class DIRT.TestCase
+DataType:- int
+##############################################################################
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- End Of Method -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+##############################################################################
+		Constructors Details
+##############################################################################
+Constructor Name: DIRT.TestCase
+Modifier: 
+Parameters: 3
+	Parameters :- int
+	Parameters :- int
+	Parameters :- int
+##############################################################################
+Constructor Name: DIRT.TestCase
+Modifier: 
+Parameters: 2
+	Parameters :- int
+	Parameters :- int
+##############################################################################
+Constructor Name: DIRT.TestCase
+Modifier: 
+Parameters: 1
+	Parameters :- int
+##############################################################################
+Constructor Name: DIRT.TestCase
+Modifier: 
+Parameters: 0
+	0 Parametarised Constructor 
+##############################################################################
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- End Of Method -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+##############################################################################
+		Instance Details
+##############################################################################
+1072591677
+DIRT.TestCase@3fee733d
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- End Of Method -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+##############################################################################
+		Methods Details
+##############################################################################
+Method Name:- get
+Declared Class :- class DIRT.Generic
+Return Type :- void
+Modifiers :- public
+##############################################################################
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- End Of Method -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+##############################################################################
+		Attributes Details
+##############################################################################
+Fields Name:- t
+Declared Class :- class DIRT.Generic
+DataType:- class java.lang.Object
+##############################################################################
+Fields Name:- a
+Declared Class :- class DIRT.Generic
+DataType:- int
+##############################################################################
+Fields Name:- b
+Declared Class :- class DIRT.Generic
+DataType:- int
+##############################################################################
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- End Of Method -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+##############################################################################
+		Constructors Details
+##############################################################################
+Constructor Name: DIRT.Generic
+Modifier: 
+Parameters: 3
+	Parameters :- java.lang.Object
+	Parameters :- int
+	Parameters :- int
+##############################################################################
+Constructor Name: DIRT.Generic
+Modifier: 
+Parameters: 2
+	Parameters :- java.lang.Object
+	Parameters :- int
+##############################################################################
+Constructor Name: DIRT.Generic
+Modifier: 
+Parameters: 0
+	0 Parametarised Constructor 
+##############################################################################
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- End Of Method -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+##############################################################################
+		Instance Details
+##############################################################################
+1175962212
+DIRT.Generic@4617c264
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x- End Of Method -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
