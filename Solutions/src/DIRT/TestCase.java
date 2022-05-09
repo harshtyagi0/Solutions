@@ -27,20 +27,20 @@ class Generic<T> {
 }
 
 //Test case : 2
-class abc {
+class Grade {
 	private int a;
 	int b, c;
 
-	public abc(int r) {
+	public Grade(int r) {
 		b = r;
 	}
 
-	public abc(int r, int s) {
+	public Grade(int r, int s) {
 		b = r;
 		c = s;
 	}
 
-	public abc(int a, int b, int c) {
+	public Grade(int a, int b, int c) {
 		this.a = a;
 		this.b = b;
 		this.c = c;

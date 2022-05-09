@@ -6,11 +6,6 @@ public class MessageGreater {
 
 	int smallBlockSize = 4 * 1024;
 	int mediumBlockSize = 128 * 1024;
-	int largeBlockSize = 1024 * 1024;
-
-	int smallBlockCount = 1024;
-	int mediumBlockCount = 32;
-	int largeBlockCount = 4;
 
 	private ByteBuffer Message = ByteBuffer.allocate(smallBlockSize);
 	private ByteBuffer MessageLarge = ByteBuffer.allocate(mediumBlockSize);
